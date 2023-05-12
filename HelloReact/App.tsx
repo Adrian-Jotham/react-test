@@ -12,6 +12,8 @@ const Cat = () => {
 
     <Text>Hello, I am {name}!</Text>
 
+    <Text>Ini versi kedua</Text>
+
   );
 
 }
